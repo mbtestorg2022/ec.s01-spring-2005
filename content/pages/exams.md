@@ -18,16 +18,85 @@ Spring 2005
 
 The students were given a final exam on the Java® material as a self-test to determine whether they were ready to teach over the summer in Africa. Two versions of this exam are below: note that some of the questions in the exams are the same, but some are different as well.
 
-| EXAMS | SOLUTIONS |
-| --- | --- |
-| [EC.S01 Final Exam, Version 1 (PDF)]({{< baseurl >}}/resources/mitec_s01s05_final) | [EC.S01 Final Exam, Version 1 Solutions (PDF)]({{< baseurl >}}/resources/mitec_s01s05_final_solu) |
-| [EC.S01 Final Exam, Version 2 (PDF)]({{< baseurl >}}/resources/mitec_s01s05_final_v2) | [EC.S01 Final Exam, Version 2 Solutions (PDF)]({{< baseurl >}}/resources/mitec_s01s05_fin_sol_v2)   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[EC.S01 Final Exam, Version 1 (PDF)]({{< baseurl >}}/resources/mitec_s01s05_final)
+{{< tdclose >}}
+{{< tdopen >}}
+[EC.S01 Final Exam, Version 1 Solutions (PDF)]({{< baseurl >}}/resources/mitec_s01s05_final_solu)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[EC.S01 Final Exam, Version 2 (PDF)]({{< baseurl >}}/resources/mitec_s01s05_final_v2)
+{{< tdclose >}}
+{{< tdopen >}}
+[EC.S01 Final Exam, Version 2 Solutions (PDF)]({{< baseurl >}}/resources/mitec_s01s05_fin_sol_v2)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 Summer 2005
 -----------
 
-| QUIZZES / EXAMS | SUPPORTING FILES |
-| --- | --- |
-| In-class Quiz ([PDF]({{< baseurl >}}/resources/mitec_s01s05_quiz_1)) | &nbsp; |
-| Live Coding Exam 1 ([PDF]({{< baseurl >}}/resources/mitec_s01s05_exam_1)) | ExamTester.java ([JAVA](./resolveuid/a62cb4da15b36a860815c3c984cbee31))  {{< br >}}  {{< br >}}MusicMatatu.java ([JAVA](./resolveuid/68ce963d97ef860a3b929b6486a48737)) |
-| Live Coding Exam 2 ([PDF]({{< baseurl >}}/resources/mitec_s01s05_exam_2)) | PlayerRoster ([TXT](./resolveuid/79a07e89ccf5780182c47ff01951fd87))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUIZZES / EXAMS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Quiz ([PDF]({{< baseurl >}}/resources/mitec_s01s05_quiz_1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Live Coding Exam 1 ([PDF]({{< baseurl >}}/resources/mitec_s01s05_exam_1))
+{{< tdclose >}}
+{{< tdopen >}}
+ExamTester.java ([JAVA](./resolveuid/a62cb4da15b36a860815c3c984cbee31))  
+  
+MusicMatatu.java ([JAVA](./resolveuid/68ce963d97ef860a3b929b6486a48737))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Live Coding Exam 2 ([PDF]({{< baseurl >}}/resources/mitec_s01s05_exam_2))
+{{< tdclose >}}
+{{< tdopen >}}
+PlayerRoster ([TXT](./resolveuid/79a07e89ccf5780182c47ff01951fd87))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

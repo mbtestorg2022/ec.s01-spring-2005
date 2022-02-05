@@ -18,55 +18,603 @@ Some of these files are also [available for download from iTunes U](https://itun
 Spring 2005
 -----------
 
-| Lec # | TOPICS | VIDEOS |
-| --- | --- | --- |
-| 1 | Introduction ([PDF - 1.3 MB]({{< baseurl >}}/resources/mitec_s01s05_l1_introd)) | &nbsp; |
-| 2 | Logistics ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec2_logist)) (Courtesy of Eric Mibuari. Used with permission.) | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} MIT Medical Presentation ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l3_mit)) {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | AITI Networking | &nbsp; |
-| 5 | Introduction to IT, Entrepreneurship ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l5_it_entrepr)) (Courtesy of Yaron Binur. Used with permission.) | &nbsp; |
-| 6 | Teaching Tips ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec6_teach)) | &nbsp; |
-| 7 | Practice Teaching Sessions | &nbsp; |
-| 8 | Cross-Cultural Communication ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l8_cros_cul)) (Courtesy of Prof. Bernd Widdig. Used with permission.) | &nbsp; |
-| 9 | Java® Week: Part I | &nbsp; |
-| 10 | Java® Week: Part II | &nbsp; |
-| 11 | Fostering OpenCourseWare ([PDF - 1.2 MB]({{< baseurl >}}/resources/mitec_s01s05_l11_open)) | &nbsp; |
-| 12 | Learning and International Development (Video courtesy of Prof. Richard C. Larson. Used with permission. Note: lecture slides are not presented for copyright reasons.) | ([MP4 - 183 MB](https://archive.org/download/MITSP.772S05/ocw-sp.772-25apr2005-220k.mp4)) |
-| 13 | Preparation for PSDS Final Presentation | &nbsp; |
-| 14 | iLabs Presentation | &nbsp; |
-| 15 | PSDS Final Presentation {{< br >}}{{< br >}} Conclusion ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec14_conclu)) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+VIDEOS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction ([PDF - 1.3 MB]({{< baseurl >}}/resources/mitec_s01s05_l1_introd))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Logistics ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec2_logist)) (Courtesy of Eric Mibuari. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MIT Medical Presentation ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l3_mit))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+AITI Networking
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to IT, Entrepreneurship ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l5_it_entrepr)) (Courtesy of Yaron Binur. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Teaching Tips ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec6_teach))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Practice Teaching Sessions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Cross-Cultural Communication ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l8_cros_cul)) (Courtesy of Prof. Bernd Widdig. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Java® Week: Part I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Java® Week: Part II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Fostering OpenCourseWare ([PDF - 1.2 MB]({{< baseurl >}}/resources/mitec_s01s05_l11_open))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and International Development (Video courtesy of Prof. Richard C. Larson. Used with permission. Note: lecture slides are not presented for copyright reasons.)
+{{< tdclose >}}
+{{< tdopen >}}
+([MP4 - 183 MB](https://archive.org/download/MITSP.772S05/ocw-sp.772-25apr2005-220k.mp4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Preparation for PSDS Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+iLabs Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+PSDS Final Presentation
+
+Conclusion ([PDF]({{< baseurl >}}/resources/mitec_s01s05_lec14_conclu))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Summer_2005" >}}{{< /anchor >}}Summer 2005
 ------------------------------------------------------
 
-| SES # | TOPICS | SPECIAL TOPICS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Lecture 0: Introduction to AITI and Team {{< br >}}{{< br >}} Lecture 1: Introduction to Java® ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l01_introdu)) {{< br >}}{{< br >}} Lecture 2: Variables ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l02_var_data)) {{< br >}}{{< br >}} Lecture 3: Operators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l03_operators)) {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Lecture 4: Control Structures ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l04_cont)) | &nbsp; |
-| 3 | Lecture 5: Arrays ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l05_arrays)) | &nbsp; |
-| 4 | Lecture 6: Methods ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l06_methods)) | Seminar 1: Bytecodes ([PDF]({{< baseurl >}}/resources/mitec_s01s05_bytecode)) |
-| 5 | Lecture 7: OOP Part I ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l07_classobj1)) | &nbsp; |
-| 6 | Quiz Review | Entrepreneurship Seminar 0: Introduction ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e0_entrepr)) {{< br >}}{{< br >}} Entrepreneurship Seminar 1: Producers and Consumers ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e1_prod_vs)) |
-| 7 | Lecture 8: OOP Part II ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l08_classobj2)) {{< br >}}{{< br >}} Quiz | &nbsp; |
-| 8 | Lecture 9: Lists and Iterators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l09_lists_iterat)) | Entrepreneurship Seminar 2: Entrepreneurial Mindset ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e2_entre)) |
-| 9 | Work Day | &nbsp; |
-| 10 | Lecture 10: Static and Final ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l10_static)) | &nbsp; |
-| 11 | Lecture 11: Packages and Scope ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l11_scope)) | Entrepreneurship Seminar 3: Writing Business Plans ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e3_business)) |
-| 12 | Lab Day | &nbsp; |
-| 13 | Work Day | &nbsp; |
-| 14 | Work Day (cont.) | &nbsp; |
-| 15 | Lecture 12: Inheritance ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l12_inheritan)) | Entrepreneurship Seminar 4: Offshore/Outsourcing |
-| 16 | Live Coding Exam {{< br >}}{{< br >}} Lecture 13: Abstract Classes and Interfaces | &nbsp; |
-| 17 | Lecture 14: Exceptions ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l14_exception)) | Entrepreneurship Seminar 5: Business Innovation |
-| 18 | Lecture 15: IO and Parsing ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l15_io_parsing)) | &nbsp; |
-| 19 | Review Session | &nbsp; |
-| 20 | Lecture 16: Introduction to Swing | Seminar 2: Internationalization |
-| 21 | Lecture 17: Swing Event Model | Entrepreneurship Seminar 6: Social Entrepreneurship {{< br >}}{{< br >}} Guest Speaker {{< br >}}{{< br >}} Seminar 3: Code Methodology ([PDF]({{< baseurl >}}/resources/mitec_s01s05_coding_metho)) |
-| 22 | Work Day | Entrepreneurship Seminar 7: Marketing and Production |
-| 23 | Final Project: Explanation and Beginning of Final Projects for Non-OCW Students | Entrepreneurship Seminar 8: Summary/Pitch Business Plans |
-| 24 | Exam 2 {{< br >}}{{< br >}} Final Project | &nbsp; |
-| 25 | Final Project (cont.) | &nbsp; |
-| 26 | Final Project (cont.) | &nbsp; |
-| 27 | Final Project (cont.) | &nbsp; |
-| 28 | Final Project (cont.) | &nbsp; |
-| 29 | OCW Project Demos {{< br >}}{{< br >}} Business Plan Presentations {{< br >}}{{< br >}} Graduation |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SPECIAL TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture 0: Introduction to AITI and Team
+
+Lecture 1: Introduction to Java® ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l01_introdu))
+
+Lecture 2: Variables ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l02_var_data))
+
+Lecture 3: Operators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l03_operators))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 4: Control Structures ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l04_cont))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 5: Arrays ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l05_arrays))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 6: Methods ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l06_methods))
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar 1: Bytecodes ([PDF]({{< baseurl >}}/resources/mitec_s01s05_bytecode))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 7: OOP Part I ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l07_classobj1))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz Review
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 0: Introduction ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e0_entrepr))
+
+Entrepreneurship Seminar 1: Producers and Consumers ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e1_prod_vs))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 8: OOP Part II ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l08_classobj2))
+
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 9: Lists and Iterators ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l09_lists_iterat))
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 2: Entrepreneurial Mindset ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e2_entre))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Work Day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 10: Static and Final ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l10_static))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 11: Packages and Scope ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l11_scope))
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 3: Writing Business Plans ([PDF]({{< baseurl >}}/resources/mitec_s01s05_e3_business))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Work Day
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Work Day (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 12: Inheritance ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l12_inheritan))
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 4: Offshore/Outsourcing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Live Coding Exam
+
+Lecture 13: Abstract Classes and Interfaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 14: Exceptions ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l14_exception))
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 5: Business Innovation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 15: IO and Parsing ([PDF]({{< baseurl >}}/resources/mitec_s01s05_l15_io_parsing))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 16: Introduction to Swing
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar 2: Internationalization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 17: Swing Event Model
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 6: Social Entrepreneurship
+
+Guest Speaker
+
+Seminar 3: Code Methodology ([PDF]({{< baseurl >}}/resources/mitec_s01s05_coding_metho))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Work Day
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 7: Marketing and Production
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project: Explanation and Beginning of Final Projects for Non-OCW Students
+{{< tdclose >}}
+{{< tdopen >}}
+Entrepreneurship Seminar 8: Summary/Pitch Business Plans
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+OCW Project Demos
+
+Business Plan Presentations
+
+Graduation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
